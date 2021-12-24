@@ -1,0 +1,12 @@
+node_modules
+dist
+**/*.d.ts
+build
+coverage
+
+.eslintrc.js
+husky.config.js
+jest.config.js
+jest.config.base.js
+
+webpack.config.js

@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+
+tsconfig.tsbuildinfo
+
+lerna-debug.log
+
+/packages/*/node_modules/
+/packages/*/dist/
+/packages/*/build/
+
+junit.xml
