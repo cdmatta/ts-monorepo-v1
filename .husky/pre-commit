@@ -3,4 +3,3 @@
 
 yarn eslint . --fix
 yarn pretty-quick --staged
-yarn test
